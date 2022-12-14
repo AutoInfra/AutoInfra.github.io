@@ -1,0 +1,1 @@
+(self.webpackChunkauto_infra=self.webpackChunkauto_infra||[]).push([[535],{6353:e=>{"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"AboutMe","permalink":"/blog/AboutMe"}]}')}}]);

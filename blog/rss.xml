@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Bhargav Murari Blog</title>
+        <link>https://autoinfra.github.io/blog</link>
+        <description>Bhargav Murari Blog</description>
+        <lastBuildDate>Wed, 14 Dec 2022 04:17:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AboutMe]]></title>
+            <link>https://autoinfra.github.io/blog/AboutMe</link>
+            <guid>AboutMe</guid>
+            <pubDate>Wed, 14 Dec 2022 04:17:10 GMT</pubDate>
+            <description><![CDATA[Hi, I'm Bhargav Murari]]></description>
+        </item>
+    </channel>
+</rss>
