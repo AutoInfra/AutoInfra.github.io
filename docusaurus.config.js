@@ -1,6 +1,6 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
+//test commit
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Bhargav Murari',
